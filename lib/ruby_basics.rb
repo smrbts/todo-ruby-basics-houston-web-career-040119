@@ -7,7 +7,7 @@ def assign_variable(value)
 end
 
 def argue(phrase)
-  phrase = "I am the best"
+  phrase = "I'm right and you are wrong!"
 end
 
 def greeting(greeting, name)
@@ -23,6 +23,6 @@ def last_evaluated_value
 end
 
 def pizza_party(topping = "cheese")
-puts "#toping"
-"toping"
+puts "#topping"
+"topping"
 end
