@@ -10,7 +10,7 @@ def argue(phrase)
   phrase = "I am the best"
 end
 
-def greeting
+def greeting(greeting, name)
 
 end
 
